@@ -10,7 +10,6 @@ capybara-*.html
 *.orig
 rerun.txt
 pickle-email-*.html
-/dist
 
 # Ignore all logfiles and tempfiles.
 /log/*
@@ -71,3 +70,4 @@ yarn-debug.log*
 
 # Jetbrains editor folder
 /.idea
+/dist
